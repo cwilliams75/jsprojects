@@ -1,0 +1,9 @@
+1. create a function that intakes a max number value we are testing up to from user
+
+2. next create for loop to house following statements
+
+3. if statement testing modulo on 3 and 5 - which console.log "Wu-Tang Forever"
+
+4. else if statement testing modulo on number 3 - which console.log "Wu"
+
+5. else if statement testing modulo on number 5 - which will console.log "Tang"
